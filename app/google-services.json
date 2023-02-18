@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319297222713",
+    "project_id": "vperfumes-7f1f9",
+    "storage_bucket": "vperfumes-7f1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319297222713:android:c8ceaad47aabef0eaeb5e8",
+        "android_client_info": {
+          "package_name": "com.example.vperfumes.vperfumes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319297222713-ivi5ib8vike6s0vab96st1e2l7hnko9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vperfumes.vperfumes",
+            "certificate_hash": "5d37c2807760451dc8d9569d16dcbc1a4d53cdea"
+          }
+        },
+        {
+          "client_id": "319297222713-v8fphi876urfev5k0i6v1c95a24rbq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfQoFYNiaa3Tml6hbxPZNUuDFB8sgOeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319297222713-pcnl9flps2vefae816ntpa9jf9inlg6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
